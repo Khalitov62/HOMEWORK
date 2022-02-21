@@ -1,0 +1,18 @@
+Problem: Temperaturun 15 dereceden az ve ya cox olmasi ?
+
+
+girish TEMP derecesi
+
+ TEMP 15-den boyukdurmu ?
+ ekrana yazdir "hava istidir"  
+ 
+ eks halda
+ ekrana yazdir "hava soyuqdur"
+
+
+START
+input TEMP
+if 15<TEMP:
+  print("hava istidir")
+  else
+  print("hava soyuqdur")   

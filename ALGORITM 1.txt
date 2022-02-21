@@ -1,0 +1,18 @@
+Problem: verilmis n ededinin 3 e ve 7 ye bolunmesi ?
+
+
+girish n
+ 
+ n-3 e ve 7 e bolunurmu ?
+ ekrana yazdir "eded 3e ve 7 ye bolunur"
+ 
+ eks halda
+ ekrana yazdir "eded 3e ve 7 ye bolunmur"
+
+
+START
+input n
+if n%3==0 && n%7==0:
+  print("eded 3 e ve 7 ye bolunur")
+  else
+  print("eded 3 e ve 7 ye bolunmur")
